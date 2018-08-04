@@ -5,7 +5,7 @@ TechTrend's Migration Factoty bringings the best of bread from GSA vendors, gove
 <b>Assess and Discover</B><BR>
 • Assess the IT environment to determine viable opportunities for migration<BR>
 • Perform readiness assessment and create scorecards<BR>
-• Provide road map for Azure adoption<BR>
+• Provide road map for cloud adoption<BR>
 • Identify business opportunities<BR>
 • Provide total cost of operation (TCO) and return on investment (ROI) for migrating data and applications
 
