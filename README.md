@@ -1,4 +1,4 @@
-# Cloud Migration Factory
+# Cloud Enablement Professional Services (CEPS)
 
 TechTrend's Migration Factoty bringings the best of bread from GSA vendors, government agencies and lesssons learned from migrating many applications to government and commercial cloud envrionments. This repostiroy is developed to share cloud expertise to help you accelerate your clud migration experience, provide help with FEDRAMP controls and testing for accelerated ATO, support enterprise wide shared service enablement for reuse, IT portfolio management and most importantly provide solid approaches in utilizing agile practices and automation from discovery to execution of workloads.
 
